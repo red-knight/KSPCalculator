@@ -1,0 +1,128 @@
+This program is intended as a calculator for the Kerbal Space Program.
+
+It can calculate Circular Orbits, Hohmann Transfer Orbits and Launch Orbits (experimental)
+
+Changelog:
+
+V0.10.1:
+
+Corrected Mun Data, still needing Kerbin data
+Added new Stock Parts
+
+V0.10:
+
+Removed Bi-Elliptic Transfer Orbit Calculator until further notice
+Added support for more celestrial bodies in the orbit calculations
+Added new Stock Parts
+
+V0.9.5:
+
+Corrected Bi-Elliptic Transfer Orbit Calculations
+Added Upper Athomsphere into the Graphic Model
+Reduced the Orbital display inaccuracy a little when in elliptical display  
+
+V0.9.4:
+
+Corrected a bug that I overlooked in the 0.9.3 bugfix.
+
+V0.9.3:
+
+Corrected an error that has gotten into the Delta-v calculation.
+
+V0.9.2:
+
+Made Sure that the Calculator recognizes Hyperbolic Trajectories when they are entered in the Elliptic Orbit Calculator
+
+V0.9.1:
+
+Fixed a few bugs in the Bi-Elliptic Transfer Orbit Calculator
+Attempted to fix bugs in the Launch Orbit Calculator (remains experimental)
+
+V0.9:
+
+Added a Bi-Ellipstic Transfer Orbit Calculator (may be buggy)
+Fused Generic Parts and Custom Parts Staging Calculators
+
+V0.8.2.5:
+
+Minor GUI updates and fixes
+
+V0.8.2.4:
+
+Finally fixed the filesystem problem. Until there is a complain through. :p 
+
+V0.8.2.3:
+
+Fixed a little overlooked problem
+Rerouted System.out into a log file
+
+V0.8.2.2:
+
+Hopefully now fixed the little filesystem problem...
+
+V0.8.2.1:
+
+Hopefully fixed a little filesystem problem
+
+V0.8.2:
+
+Reinstalled the Images
+Added a Configuration Menu
+Added Custom Part Support
+
+V0.8.1:
+
+Removed images, destroyed the jar file...
+
+V0.8:
+
+Added Multi Stage Calculator
+
+V0.7.1:
+
+Added Images!
+
+V0.7:
+
+Added a stage Calculator
+
+v0.6.6:
+
+Added Orbit Display Usability to the Hohmann Orbit Calculator
+Added a Help System
+
+v0.6.5:
+
+Fixed a little bug in the Elliptic Orbit Calculator
+Added an Orbit Display Utility
+
+v0.6:
+
+Added an Elliptic Orbit Calculator
+
+v0.5.1:
+
+Added startscripts for Windows and Linux
+Reworked the Math engine
+Added Initial and Final Velocities for each Velocity change in the Hohmann orbit
+
+V0.5:
+
+Added an experimantal Launch Orbit Calculator
+
+V0.4:
+
+Added a Delta-v and Orbital Period Display to the Hohmann Orbit Calculator
+
+V0.3:
+
+Reworked the Display Engine
+Added Hohmann Transfer Orbit Calculator
+
+V0.2:
+
+Added escape Velocity to the Circular Orbit Calculator
+
+V0.1:
+
+Added Orbit Calculator
